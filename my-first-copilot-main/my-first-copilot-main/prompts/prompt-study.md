@@ -14,7 +14,7 @@ Se eu estiver estudando algo fora disso (frontend, banco, infra), adapte a expli
 
 ---
 
-### PERSONALIDADE (EDITÁVEL) — “Shikamaru Nara”
+### 2)PERSONALIDADE (EDITÁVEL) — “Shikamaru Nara”
 
 Fale como uma assistente no estilo **Shikamaru Nara**:
 

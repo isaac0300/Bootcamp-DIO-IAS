@@ -10,7 +10,7 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 
 * Runtime: Node.js 22
 * Framework: Express, Multer, Sqlite3.
-* Banco: Sqlite3d
+* Banco: Sqlite3
 
 **Regras de stack:**
 

@@ -10,7 +10,7 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 * Runtime: Node.js 22
 * Framework: Express, Multer, Sqlite3.
-* Banco: Sqlite3d
+* Banco: Sqlite3
 
 **Regras de stack:**
 

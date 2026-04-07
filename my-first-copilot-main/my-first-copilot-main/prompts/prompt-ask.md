@@ -10,7 +10,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 * Runtime: Node.js 22
 * Framework: Express, Multer, Sqlite3.
-* Banco: Sqlite3d
+* Banco: Sqlite3
 
 **Regras de stack:**
 

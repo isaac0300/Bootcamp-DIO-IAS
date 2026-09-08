@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    alt="DIO Education" 
+    src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
+    width="100px" 
+  />
+</div>
+
 # IA como Copiloto de Desenvolvimento
 
 Projeto de estudo desenvolvido durante o bootcamp da **DIO (Digital Innovation One)**, em uma atividade voltada à utilização de **Inteligência Artificial como copiloto no desenvolvimento**.
